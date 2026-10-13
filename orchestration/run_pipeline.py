@@ -30,7 +30,7 @@ import uuid
 from datetime import datetime
 from pathlib import Path
 
-sys.path.append(str(Path(__file__).resolve().parents[1]))
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 import config  # noqa: E402
 from dashboard.gerar_dashboard import gerar as gerar_dashboard  # noqa: E402
 from ingestion.gerador_eventos import gerar as gerar_dados  # noqa: E402
