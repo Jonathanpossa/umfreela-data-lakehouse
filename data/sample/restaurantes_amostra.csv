@@ -1,0 +1,11 @@
+id_restaurante,nome_fantasia,segmento,cidade,data_cadastro
+R0001,Hotel UMF 001,Hotel,Santiago,2026-09-05
+R0002,Pizzaria UMF 002,Pizzaria,Porto Alegre,2025-01-13
+R0003,Hotel UMF 003,Hotel,Santa Maria,2026-07-13
+R0004,Bar UMF 004,Bar,Porto Alegre,2026-03-18
+R0005,Pizzaria UMF 005,Pizzaria,Porto Alegre,2026-03-19
+R0006,Buffet UMF 006,Buffet, Santa Maria ,2026-03-12
+R0007,Hotel UMF 007,Hotel,Porto Alegre,2024-12-14
+R0008,Restaurante UMF 008,Restaurante,Uruguaiana,2026-07-25
+R0009,Churrascaria UMF 009,Churrascaria,Santiago,2026-07-03
+R0010,Pizzaria UMF 010,Pizzaria,Santiago,2025-06-16
