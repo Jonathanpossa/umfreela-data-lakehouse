@@ -1,0 +1,15 @@
+# Dados gerados e data lake (são recriados ao executar o pipeline)
+data/generated/
+lake/
+logs/
+queries/resultados/
+dashboard/dados/
+spark-warehouse/
+metastore_db/
+derby.log
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.pytest_cache/
