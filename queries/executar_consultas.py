@@ -5,7 +5,7 @@ from pathlib import Path
 
 import duckdb
 
-sys.path.append(str(Path(__file__).resolve().parents[1]))
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 import config  # noqa: E402
 
 ARQUIVO_SQL = Path(__file__).with_name("consultas.sql")
